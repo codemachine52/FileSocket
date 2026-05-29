@@ -8,7 +8,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-//руководство пользователя и достоинства программы описать в ворде
 #define SERVER_IP         "10.37.216.75"
 #define PORT              12345
 #define BUF_SIZE          4096
