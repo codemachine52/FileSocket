@@ -1,0 +1,6 @@
+[2026-05-29 10:31:14] ================================================
+[2026-05-29 10:31:14]   Server started on port 12345
+[2026-05-29 10:31:14]   Log file: server_log.txt  (same folder as .exe)
+[2026-05-29 10:31:14]   Files are resolved relative to .exe location
+[2026-05-29 10:31:14]   Commands: /spaces  /get  /put
+[2026-05-29 10:31:14] ================================================
